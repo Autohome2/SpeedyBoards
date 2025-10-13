@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Underdog-rescue")(type "Legacy")(uri "${KIPRJMOD}/Ocelot-vA4-rescue.lib")(options "")(descr ""))
+  (lib (name "milehigh-rescue")(type "Legacy")(uri "//mediaportal/Docs/KiCad/milehigh/milehigh-rescue.lib")(options "")(descr ""))
+)
