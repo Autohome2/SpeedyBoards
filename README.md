@@ -22,6 +22,7 @@ A4
 - Changed trigger jumpers to match other boards
 A3
 - First release
+
 ### Errata
 vA3:
 - Labeling for trigger jumpers is reversed. The secondary trigger jumpers are nearest the outside edge of the board, and the primary trigger jumpers are near the trigger conditioner socket.
